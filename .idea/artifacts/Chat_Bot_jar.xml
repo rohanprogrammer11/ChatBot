@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Chat Bot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Chat_Bot_jar</output-path>
+    <root id="archive" name="Chat Bot.jar">
+      <element id="module-output" name="Chat Bot" />
+    </root>
+  </artifact>
+</component>
